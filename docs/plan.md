@@ -263,18 +263,18 @@ Trình bày kết quả dự án rõ ràng, thuyết phục trước hội đồ
 ---
 
 ## Kế Hoạch Thời Gian
-
-| Giai đoạn | Công việc | Người thực hiện | Thời gian |
+Hạn: 20/03/2026
+| Giai đoạn | Công việc | Người thực hiện | Hạn |
 |---|---|---|---|
-| 1 | EDA | Chung | 2 ngày |
-| 2 | Tiền xử lý | Oanh | 2 ngày |
-| 3 | Xây dựng môi trường RL | Phú/Long | 2 ngày |
-| 4 | Implement DQN + A2C | Phú/Long + Oanh | 6 ngày |
-| 5 | Thực nghiệm + Đánh giá | Oanh | 2 ngày |
-| 6 | Xây dựng giao diện | Phú/Long | 3 ngày |
-| 7 | Viết báo cáo | Chung | 4 ngày |
-| 8 | Thuyết trình | Chung | 2 ngày |
-| **Tổng** | | | **~23 ngày** |
+| 1 | EDA | Chung | 23:59:00 06/03/2026 |
+| 2 | Tiền xử lý | Oanh | 23:59:00 07/03/2026 |
+| 3 | Xây dựng môi trường RL | Phú/Long | 23:59:00 08/03/2026 |
+| 4 | Implement DQN + A2C | Phú/Long + Oanh | 23:59:00 12/03/2026 |
+| 5 | Thực nghiệm + Đánh giá | Oanh | 23:59:00 13/03/2026 |
+| 6 | Xây dựng giao diện | Phú/Long | 23:59:00 15/03/2026 |
+| 7 | Viết báo cáo | Chung | 23:59:00 17/03/2026 |
+| 8 | Làm PPT, Chuẩn bị thuyết trình | Chung | 23:59:00 18/03/2026 |
+| **Tổng** | | | **13 ngày** |
 
 ---
 
