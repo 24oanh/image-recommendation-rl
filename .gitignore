@@ -1,0 +1,9 @@
+# Data lớn không push lên GitHub
+data/raw/
+*.gz
+*.b
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
