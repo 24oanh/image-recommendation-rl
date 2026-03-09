@@ -129,7 +129,7 @@ Xây dựng môi trường giả lập (simulator) từ offline log Behance đ�
 ```python
 env = BehanceEnvironment(data)
 
-state = env.reset(user_id)        # Khởi tạo state ban đầu của user
+state = env.reset(user_idx)        # Khởi tạo state ban đầu của user
 next_state, reward, done = env.step(action)  # Thực hiện action, nhận reward
 ```
 
