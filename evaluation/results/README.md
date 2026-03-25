@@ -1,1 +1,0 @@
-# kết quả thực nghiệm
