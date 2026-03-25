@@ -1,7 +1,6 @@
 # Data lớn không push lên GitHub
-data/raw/
-*.gz
-*.b
+data/raw/*
+data/processed/*
 
 # Python
 __pycache__/
